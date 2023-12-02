@@ -12,7 +12,7 @@ function resultado(vitorias,derrotas){
 function ranqueada(){
     let resultadoRank = winrate
     let elo = ""
-    let taxa =elo
+    
  if (resultadoRank <= 10){
     elo= "Ferro"
  } else if (resultadoRank <= 20){
