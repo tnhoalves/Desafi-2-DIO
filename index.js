@@ -1,4 +1,4 @@
-let classe= resultado (5000,3411)
+let classe= resultado ("taxa de vitoria","taxa de derrotas")
 let winrate = classe
  console.log("Seu win rate é de: " + classe)
 
